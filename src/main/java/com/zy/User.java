@@ -10,5 +10,6 @@ public class User {
         System.out.println("hello git in IDEA 2");
         System.out.println("hello git in IDEA hot-fix");
         System.out.println("hello git in IDEA conflict master");
+        System.out.println("hello git in IDEA conflict hot fix");
     }
 }
